@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="registration">Registration</string>
+    <string name="login">Login</string>
+    <string name="accept">Accept</string>
+    <string name="signOut">Sign out</string>
+
+    <!-- Errors -->
+    <string name="error_network">An error occurred during networking</string>
+    <string name="err_authorization">Incorrect login or password</string>
+    <string name="conflict">User already exists</string>
+
+
+</resources>
